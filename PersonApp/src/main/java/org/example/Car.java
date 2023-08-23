@@ -23,12 +23,12 @@ package org.example;
 
 
             public String getModel() {
-                return model;
+                return Modelnum;
             }
 
 
             public void setModel(String model) {
-                this.model = model;
+                this.Modelnum = model;
             }
 
 

@@ -5,7 +5,7 @@ public class MainClass1 {
 
             OverloadedMethods calculator = new OverloadedMethods();
 
-                System.out.println("Assignment was hard")
+                System.out.println("Assignment was hard");
 
         System.out.println("Sum of two integers is: " + calculator.add(3, 10));
 
